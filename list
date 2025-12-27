@@ -1,0 +1,14 @@
+Data:
+A list that separates even numbers from the list
+known=[1,2,5,6,87,93,10]
+def even_numbers(number_list)
+evens=[]
+for num in numbers:
+if num %2==0:evens.append(num)
+return evens
+num=[1,2,5,6,87,93,10]
+result=even_numbers(nums)
+print(result)
+taha hashemi
+kave jafary
+
